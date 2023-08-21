@@ -1,0 +1,15 @@
+{
+
+    "name": "Ryu e Akuma",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "image": "ipfs://Qmb4W1wpbNtM9CDMMabNZRZ9FT5yPc59JxcsqVvz5rr5Gw",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@pinata/sdk": "^2.1.0",
+        "dotenv": "^16.3.1"
+    }
+
+}

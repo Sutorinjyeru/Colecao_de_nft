@@ -1,0 +1,15 @@
+{
+
+    "name": "X e Zero",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "image": "ipfs://QmdPDGFFtQrB343k5ebM7qf1DggYi3Nmnwfz26GcdzRAG7",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@pinata/sdk": "^2.1.0",
+        "dotenv": "^16.3.1"
+    }
+
+}
